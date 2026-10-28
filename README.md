@@ -2,7 +2,7 @@
 
 Захватывающая 2D-аркада в стиле киберпанк, написанная на чистом HTML5 Canvas и JavaScript. Защищайте космическое пространство от волн врагов, собирайте полезные бонусы и устанавливайте новые рекорды!
 
-👉 **[Играть прямо сейчас!]https://github.com/krytoikolbasa-cell/labkaoblachnietehnologii/tree/main** *(замените ссылку на вашу из GitHub Pages)*
+👉 **[Играть прямо сейчас!]https://github.com/krytoikolbasa-cell/labkaoblachnietehnologii/tree/main** 
 
 ---
 
