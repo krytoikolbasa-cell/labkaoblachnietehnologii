@@ -2,7 +2,7 @@
 
 Захватывающая 2D-аркада в стиле киберпанк, написанная на чистом HTML5 Canvas и JavaScript. Защищайте космическое пространство от волн врагов, собирайте полезные бонусы и устанавливайте новые рекорды!
 
-👉 **[Играть прямо сейчас!](https://ВАШ_ЮЗЕРНЕЙМ.github.io/ИМЯ_РЕПОЗИТОРИЯ/)** *(замените ссылку на вашу из GitHub Pages)*
+👉 **[Играть прямо сейчас!]https://github.com/krytoikolbasa-cell/labkaoblachnietehnologii/tree/main** *(замените ссылку на вашу из GitHub Pages)*
 
 ---
 
@@ -49,7 +49,7 @@
 
 Захватывающая 2D-аркада в стиле киберпанк, написанная на чистом HTML5 Canvas и JavaScript. Защищайте космическое пространство от волн врагов, собирайте полезные бонусы и устанавливайте новые рекорды!
 
-👉 **[Играть прямо сейчас!](https://ВАШ_ЮЗЕРНЕЙМ.github.io/ИМЯ_РЕПОЗИТОРИЯ/)** *(замените ссылку на вашу из GitHub Pages)*
+👉 **[Играть прямо сейчас!]https://github.com/krytoikolbasa-cell/labkaoblachnietehnologii/tree/main** *(замените ссылку на вашу из GitHub Pages)*
 
 ---
 
@@ -92,4 +92,4 @@
 
 1. Скачайте репозиторий в виде ZIP-архива или клонируйте его:
    ```bash
-   git clone [https://github.com/ВАШ_ЮЗЕРНЕЙМ/ИМЯ_РЕПОЗИТОРИЯ.git](https://github.com/ВАШ_ЮЗЕРНЕЙМ/ИМЯ_РЕПОЗИТОРИЯ.git)
+   git clone [https://github.com/ВАШ_ЮЗЕРНЕЙМ/ИМЯ_РЕПОЗИТОРИЯ.git](https://github.com/krytoikolbasa-cell/labkaoblachnietehnologii/tree/main)
